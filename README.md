@@ -1,9 +1,1 @@
-- 👋 Hi, I’m senura
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- ⚡ Fun fact
-
-<!---
-10senura/10senura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
