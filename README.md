@@ -46,7 +46,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[Your YouTube Channel Link]" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Your Name" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@athmiyahadasancharayaS" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Your Name" height="50" width="50" /></a>
 <a href="[Your LinkedIn Profile Link]" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Your LinkedIn" height="50" width="50" /></a>
 <a href="[Your Facebook Profile Link]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Your Name" height="50" width="50" /></a>
 <a href="[Your Instagram Profile Link]" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Your Instagram" height="50" width="50" /></a>
