@@ -10,11 +10,11 @@
   
 - 🌱 I'm currently learning **[Specify your current learning focus]**
 
-- 💬 Ask me about **[Your area of expertise]**
+- 💬 Ask me about **[""+""]**
 
-- 📫 How to reach me **[Your email address]**
+- 📫 How to reach me **[Senuraindeewara@gmail.com]**
   
-- ⚡ Fun fact **[Interesting fact about yourself]**
+- ⚡ Fun fact **[nothing]**
 
 </td>
 <td width="50%" align="center">
