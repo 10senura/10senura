@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I'm currently learning **[Specify your current learning focus]**
+- 🌱 I'm currently learning **[JAVA]**
 
 - 💬 Ask me about **[""+""]**
 
