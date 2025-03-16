@@ -29,7 +29,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=10Senura&theme=darkhub" alt="10Senura" />
+    <img src="https://github-profile-trophy.vercel.app/?username=10senura&theme=darkhub" alt="10senura" />
   </a> 
 </p>
 
