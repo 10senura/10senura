@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=10Senura&color=blueviolet" alt="Profile Views" />
 </p>
 <h1 align="center">Hi 👋, I'm Senura</h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <table align="center">
 <tr border="none">
